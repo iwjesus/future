@@ -8,6 +8,7 @@ app.get('/api', (requisicao, resposta) => {
   const filmes = [
     { nome: 'Os Vingadores 3' },
     { nome: 'Destacamento Blood' },
+    { nome: 'Rambo ' },
     { nome: 'Pantera Negra' }
   ]
 
